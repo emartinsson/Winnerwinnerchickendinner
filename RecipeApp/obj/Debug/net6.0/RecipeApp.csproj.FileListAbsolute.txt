@@ -1,0 +1,15 @@
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\bin\Debug\net6.0\RecipeApp.exe
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\bin\Debug\net6.0\RecipeApp.deps.json
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\bin\Debug\net6.0\RecipeApp.runtimeconfig.json
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\bin\Debug\net6.0\RecipeApp.dll
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\bin\Debug\net6.0\RecipeApp.pdb
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.AssemblyInfo.cs
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.dll
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\refint\RecipeApp.dll
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.pdb
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\RecipeApp.genruntimeconfig.cache
+C:\Users\emartin1\Documents\csharp\Github_proj\Winnerwinnerchickendinner\RecipeApp\obj\Debug\net6.0\ref\RecipeApp.dll

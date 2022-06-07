@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emartin1\\Documents\\csharp\\Github_proj\\Winnerwinnerchickendinner\\RecipeApp\\RecipeApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emartin1\\Documents\\csharp\\Github_proj\\Winnerwinnerchickendinner\\RecipeApp\\RecipeApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emartin1\\Documents\\csharp\\Github_proj\\Winnerwinnerchickendinner\\RecipeApp\\RecipeApp.csproj",
+        "projectName": "RecipeApp",
+        "projectPath": "C:\\Users\\emartin1\\Documents\\csharp\\Github_proj\\Winnerwinnerchickendinner\\RecipeApp\\RecipeApp.csproj",
+        "packagesPath": "C:\\Users\\emartin1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emartin1\\Documents\\csharp\\Github_proj\\Winnerwinnerchickendinner\\RecipeApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emartin1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
